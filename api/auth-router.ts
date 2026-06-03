@@ -1,8 +1,3 @@
-// =============================================
-// FILE: api/auth.ts
-// Purana auth.ts DELETE karo, yeh paste karo
-// =============================================
-
 import { Router, Request, Response } from "express";
 import { db } from "../db";
 import { users } from "../db/schema";
